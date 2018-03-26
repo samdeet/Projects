@@ -1,0 +1,13 @@
+Welcome to 3D Mathmatical Grapher in VR!
+
+To Setup:
+
+Install MATLAB and run saveobjmesh.m
+Open Graph.mlx and input function
+
+Install Unity3D and configure controller and input settings to match Movement and MoveGraph scripts.
+Create 'Resources' folder in Unity project and import Graph.obj from MATLAB directory
+Press play in Unity and spacebar to generate Graph.obj. (C to clear graph)
+
+
+This source code was created by Sasha Yurowkin, Samdeet Khan, and Shabab Siddique for open source domain. 
